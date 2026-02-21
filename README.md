@@ -29,8 +29,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </li>
 </ul>
-
-### My Projects
-| Project | Description | Link |
-|---------|-------------|------|
-| aiogram-bot-template | A template for creating Telegram bots using a onion arch (aiogram 3, sqlalchemy) | [GitHub](https://github.com/selfgeek-coder/aiogram-bot-template) |

@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=selfgeek-coder&theme=radical&hide_border=true&border_radius=10" />
-</p>
+<a href="https://github.com/selfgeek-coder"><img src="https://streak-stats.demolab.com?user=selfgeek-coder&theme=dark&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 
 <h3>About Me</h3>
 <p><strong>I'm a developer focused on backend and Telegram bots.</strong></p>

@@ -9,7 +9,7 @@
 <ul>
   <li><strong>Python</strong> Developer</li>
   <li>Working with async architecture and databases</li>
-  <li>Learning & building with <strong>Go</strong> 🐹</li>
+  <li>Learning <strong>Go</strong> 🐹</li>
 </ul>
 
 <h3>Tech Stack</h3>
